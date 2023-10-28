@@ -1,6 +1,7 @@
 // ignore_for_file: prefer_interpolation_to_compose_strings
 // This is get API
 // Make Model with plugin(From JSON to dart website,we easily create json to dart code)
+// This API starts from list and then repeat objects( very simple API)
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;

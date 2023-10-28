@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:my_api_practice/Api_practice/third_method.dart';
+// This API starts from list and then repeat objects( very simple API)
 
 class SecondMethod extends StatefulWidget {
   const SecondMethod({super.key});
